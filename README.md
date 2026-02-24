@@ -28,10 +28,10 @@ High Risk
 This makes the output easier to understand instead of just giving 0 or 1.
 
 --> Methods Used in This Project
-Supervised Machine Learning
-Random Forest Algorithm
-Feature Scaling (Standardization)
-Train-Test Split Validation
-Genetic Algorithm (Feature Optimization – Diabetes Module)
-Fuzzy Logic (Risk Enhancement – Diabetes Module)
-Probability-Based Risk Classification
+1.Supervised Machine Learning
+2.Random Forest Algorithm
+3.Feature Scaling (Standardization)
+4.Train-Test Split Validation
+5.Genetic Algorithm (Feature Optimization – Diabetes Module)
+6.Fuzzy Logic (Risk Enhancement – Diabetes Module)
+7.Probability-Based Risk Classification
